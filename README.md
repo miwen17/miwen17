@@ -5,9 +5,9 @@
 
 ## 🔎 Find me elsewhere
 
-&nbsp;&nbsp;↪&nbsp; []()
+&nbsp;&nbsp;→&nbsp; []()
 
-&nbsp;&nbsp;↪&nbsp; []()
+&nbsp;&nbsp;→&nbsp; []()
 
 <br />
 
@@ -37,7 +37,7 @@
 <table>
 <thead>
 <tr>
-<th align="center" colspan="3"> <img src=https://github-profile-trophy.vercel.app/?username=miwen17&margin-w=15&row=1&column=7&theme=darkhub /> </th>
+<th align="center" colspan="3"> <img src=https://github-profile-trophy.vercel.app/?username=miwen17&margin-w=15&row=1&column=5&theme=darkhub /> </th>
 </tr>
 </thead>
 <tbody>
